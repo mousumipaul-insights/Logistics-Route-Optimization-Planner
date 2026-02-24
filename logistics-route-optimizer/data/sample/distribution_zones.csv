@@ -1,0 +1,4 @@
+zone_id,zone_name,city,state,base_lat,base_lng
+ZONE_A,North Distribution Zone,Chicago,IL,41.8781,-87.6298
+ZONE_B,Central Distribution Zone,Indianapolis,IN,39.7684,-86.1581
+ZONE_C,South Distribution Zone,Louisville,KY,38.2527,-85.7585

@@ -1,0 +1,16 @@
+order_id,zone_id,customer_name,delivery_address,dest_lat,dest_lng,load_kg,priority,delivery_date
+1,ZONE_A,Acme Corp,"123 N Michigan Ave, Chicago, IL",41.8858,-87.6237,120.50,HIGH,2026-01-15
+2,ZONE_A,TechParts Inc,"456 W Wacker Dr, Chicago, IL",41.8868,-87.6386,85.00,MEDIUM,2026-01-15
+3,ZONE_A,BlueStar Retail,"789 N Clark St, Chicago, IL",41.9019,-87.6310,200.00,HIGH,2026-01-15
+4,ZONE_A,Greenfield Co,"321 S State St, Chicago, IL",41.8757,-87.6280,60.00,LOW,2026-01-16
+5,ZONE_A,Lakeside Goods,"654 E Randolph St, Chicago, IL",41.8851,-87.6205,145.75,MEDIUM,2026-01-16
+6,ZONE_B,Midwest Supply,"100 Monument Circle, Indianapolis, IN",39.7686,-86.1581,300.00,HIGH,2026-01-15
+7,ZONE_B,Hoosier Hardware,"250 S Meridian St, Indianapolis, IN",39.7612,-86.1570,175.50,MEDIUM,2026-01-15
+8,ZONE_B,Central Packers,"400 N Pennsylvania St, Indianapolis, IN",39.7726,-86.1558,90.00,LOW,2026-01-16
+9,ZONE_B,IndianaFresh,"500 Mass Ave, Indianapolis, IN",39.7747,-86.1461,210.00,HIGH,2026-01-16
+10,ZONE_B,Eagle Logistics,"750 Virginia Ave, Indianapolis, IN",39.7559,-86.1418,130.00,MEDIUM,2026-01-17
+11,ZONE_C,Derby Distributors,"500 W Main St, Louisville, KY",38.2575,-85.7680,180.00,HIGH,2026-01-15
+12,ZONE_C,SouthEnd Traders,"200 S 4th St, Louisville, KY",38.2490,-85.7541,95.00,MEDIUM,2026-01-15
+13,ZONE_C,Bluegrass Parts,"1000 E Broadway, Louisville, KY",38.2535,-85.7360,250.00,HIGH,2026-01-16
+14,ZONE_C,Riverbend Retail,"300 W Jefferson St, Louisville, KY",38.2524,-85.7607,70.00,LOW,2026-01-16
+15,ZONE_C,Cardinal Goods,"800 Barret Ave, Louisville, KY",38.2436,-85.7285,155.00,MEDIUM,2026-01-17

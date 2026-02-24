@@ -1,0 +1,11 @@
+vendor_id,vendor_name,on_time_delivery_pct,avg_cost_per_unit,compliance_score,total_deliveries
+1,SwiftTrans LLC,94.5,12.50,91.0,850
+2,RegionHaul Co,87.2,10.80,78.0,620
+3,MidWest Freight,91.0,13.20,85.0,740
+4,FastLane Delivery,78.5,9.90,70.0,510
+5,PrimeRoute Inc,96.0,14.00,95.0,1020
+6,CentralLink Logistics,82.3,11.40,74.0,430
+7,NorthStar Carriers,89.7,12.80,88.0,680
+8,QuickDrop Solutions,73.1,8.75,62.0,390
+9,BlueLine Freight,93.2,13.50,90.0,810
+10,TerraFreight Partners,85.6,11.10,80.0,570
